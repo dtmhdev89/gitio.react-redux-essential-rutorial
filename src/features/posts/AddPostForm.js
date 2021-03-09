@@ -42,7 +42,7 @@ export const AddPostForm = () => {
         </select>
         <label htmlFor="postContent">Content:</label>
         <textarea type="text" id="postContent" name="postContent" value={content} onChange={onContentChanged}/>
-        <button type="button" onClick={onSavePostClicked}>Save Post</button>
+        <button type="button" onClick={onSavePostClicked} disabled={!canSave}>Save Post</button>
       </form>
     </section>
   )
