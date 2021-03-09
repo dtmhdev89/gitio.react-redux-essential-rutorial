@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gitio.react-redux-essential-rutorial/static/css/main.b0211d57.chunk.css",
+    "main.js": "/gitio.react-redux-essential-rutorial/static/js/main.86fa737a.chunk.js",
+    "main.js.map": "/gitio.react-redux-essential-rutorial/static/js/main.86fa737a.chunk.js.map",
+    "runtime-main.js": "/gitio.react-redux-essential-rutorial/static/js/runtime-main.1907fb62.js",
+    "runtime-main.js.map": "/gitio.react-redux-essential-rutorial/static/js/runtime-main.1907fb62.js.map",
+    "static/js/2.00c24c2c.chunk.js": "/gitio.react-redux-essential-rutorial/static/js/2.00c24c2c.chunk.js",
+    "static/js/2.00c24c2c.chunk.js.map": "/gitio.react-redux-essential-rutorial/static/js/2.00c24c2c.chunk.js.map",
+    "index.html": "/gitio.react-redux-essential-rutorial/index.html",
+    "precache-manifest.2edae299cbb0cc03265b44290cc1d8fa.js": "/gitio.react-redux-essential-rutorial/precache-manifest.2edae299cbb0cc03265b44290cc1d8fa.js",
+    "service-worker.js": "/gitio.react-redux-essential-rutorial/service-worker.js",
+    "static/css/main.b0211d57.chunk.css.map": "/gitio.react-redux-essential-rutorial/static/css/main.b0211d57.chunk.css.map",
+    "static/js/2.00c24c2c.chunk.js.LICENSE.txt": "/gitio.react-redux-essential-rutorial/static/js/2.00c24c2c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1907fb62.js",
+    "static/js/2.00c24c2c.chunk.js",
+    "static/css/main.b0211d57.chunk.css",
+    "static/js/main.86fa737a.chunk.js"
+  ]
+}
